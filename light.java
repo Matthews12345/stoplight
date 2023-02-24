@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 
-public class T310006 extends Canvas {
+public class Main extends Canvas {
 
 
     public void paint(Graphics g) {
